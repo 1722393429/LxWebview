@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A16513F0A117FBC37994190B1220702D9C29301E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A0DE3846B8C01536BF1574782ED1169E2FF6A108" : 9223372036854775807,
+    "A16513F0A117FBC37994190B1220702D9C29301E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "48AD3690-7C61-4037-A5DC-CF8A9ECE6B03",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A0DE3846B8C01536BF1574782ED1169E2FF6A108" : "bbs-ios\/LxWebview\/KYNavigationProgress\/",
+    "A16513F0A117FBC37994190B1220702D9C29301E" : "bbs-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LxWebview",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LxWebview\/LxWebview.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ykyouhei\/KYNavigationProgress",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A0DE3846B8C01536BF1574782ED1169E2FF6A108"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "damei.toudu98.com:\/bbs\/ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A16513F0A117FBC37994190B1220702D9C29301E"
+    }
+  ]
+}
